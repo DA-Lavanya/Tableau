@@ -21,7 +21,8 @@ Welcome to my Tableau dashboard portfolio! This repository showcases my skills i
      - Daily trends and comparisons for active cases, recoveries, and fatalities.
      - Timeline views showing the progression of the pandemic across regions.
    - **Data Source:** COVID-19 data from [India.org](https://india.org/), sourced from government and public health data.
-   - **Project Link:**  [Tableau](https://public.tableau.com/app/profile/p.lavanya/viz/covid19_16188533530890/DESCRIPTION)
+   - **Project Link:** [Tableau](https://public.tableau.com/app/profile/p.lavanya/viz/covid19_16188533530890/DESCRIPTION)
+   - **Presentation Link:** [Presentation](https://drive.google.com/file/d/1RBzirL9nGaX5SvoLpYwoaAEbTwKZp7aJ/view?usp=sharing)
 
 
 ### 3. **Financial Analysis Dashboard**
