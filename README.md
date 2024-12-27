@@ -13,12 +13,15 @@ Welcome to my Tableau dashboard portfolio! This repository showcases my skills i
      - Visualizations for total revenue, profit margin, and sales growth.
    - **Data Source:** Sales data from [Kaggle](https://www.kaggle.com/), CSV format.
 
-### 2. **Customer Segmentation Dashboard**
-   - **Overview:** Segments customers based on demographics, purchasing behavior, and other attributes.
+### 2. **COVID-19 India Analysis Dashboard**
+   - **Overview:** Visualizes COVID-19 statistics across India, including cases, recoveries, deaths, and testing data.
    - **Key Features:** 
-     - Interactive filters to segment data by age, gender, and income levels.
-     - Clustering to identify high-value customers.
-   - **Data Source:** Customer data from [Mockaroo](https://www.mockaroo.com/), CSV format.
+     - Interactive maps and charts for state-wise analysis.
+     - Daily trends and comparisons for active cases, recoveries, and fatalities.
+     - Timeline views showing the progression of the pandemic across regions.
+   - **Data Source:** COVID-19 data from [India.org](https://india.org/), sourced from government and public health data.
+   - **Project Link:**  [Tableau](https://india.org/)
+
 
 ### 3. **Financial Analysis Dashboard**
    - **Overview:** Displays key financial metrics such as profit margins, revenue, and expense breakdowns.
