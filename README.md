@@ -12,6 +12,7 @@ Welcome to my Tableau dashboard portfolio! This repository showcases my skills i
      - Interactive filters to view sales by region, category, and time period.
      - Visualizations for total revenue, profit margin, and sales growth.
    - **Data Source:** Sales data from [Kaggle](https://www.kaggle.com/), CSV format.
+   - **Project Link:**  [Tableau](https://public.tableau.com/app/profile/p.lavanya/viz/superstores_16183902489350/salesbycategory2)
 
 ### 2. **COVID-19 India Analysis Dashboard**
    - **Overview:** Visualizes COVID-19 statistics across India, including cases, recoveries, deaths, and testing data.
