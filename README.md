@@ -25,20 +25,6 @@ Welcome to my Tableau dashboard portfolio! This repository showcases my skills i
    - **Presentation Link:** [Presentation](https://drive.google.com/file/d/1RBzirL9nGaX5SvoLpYwoaAEbTwKZp7aJ/view?usp=sharing)
 
 
-### 3. **Financial Analysis Dashboard**
-   - **Overview:** Displays key financial metrics such as profit margins, revenue, and expense breakdowns.
-   - **Key Features:** 
-     - KPIs for profit margin, revenue growth, and expense-to-income ratio.
-     - Visual comparisons between different time periods (monthly, quarterly).
-   - **Data Source:** Financial data from [Yahoo Finance API](https://www.yahoofinanceapi.com/).
-
-### 4. **Market Analysis Dashboard**
-   - **Overview:** Analyzes market trends, competitor data, and product performance.
-   - **Key Features:** 
-     - Insights into market share by product category and region.
-     - Time-series analysis to track product performance over time.
-   - **Data Source:** Market data from [Google Trends](https://trends.google.com/).
-
 ---
 
 ## **Technologies & Tools**
